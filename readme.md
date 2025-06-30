@@ -114,7 +114,7 @@ SYNC_INTERVAL_MINUTES=15
 ## 📸 Preview (optional)
 
 ```markdown
-![Preview](./docs/copilot_image_1751299872306.jpeg)
+![Preview](./docs/quorra-os.png)
 ```
 
 ---
