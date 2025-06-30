@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="./docs/quorra-os.png" alt="Quorra OS Banner" width="100%" />
+</p>
+
+# 🧠 Quorra OS — Personal AI Backend Engine
+...
+
+
 # 🧠 Quorra OS — Personal AI Backend Engine
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](#)
@@ -108,14 +117,6 @@ SYNC_INTERVAL_MINUTES=15
 5. Add Environment Variables: `.env` qiymatlari
 
 🟢 Live Link: [https://quorra-os-api.onrender.com](https://quorra-os-api.onrender.com)
-
----
-
-## 📸 Preview (optional)
-
-```markdown
-![Preview](./docs/quorra-os.png)
-```
 
 ---
 
